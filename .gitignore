@@ -109,7 +109,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-slaveork-bot_env/
 
 # Spyder project settings
 .spyderproject
